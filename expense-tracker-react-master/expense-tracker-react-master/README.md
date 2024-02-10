@@ -16,6 +16,4 @@ npm run build
 
 
 
-
-are bhaaayaaaaaaaaaaaaaaa wtfffff
-
+fast fast readme update kr deta hu fir profile me opensourse contributor likh dunga
