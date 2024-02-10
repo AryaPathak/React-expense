@@ -13,3 +13,7 @@ npm start
 npm run build
 ```
 
+
+
+
+fast fast readme update kr deta hu fir profile me opensourse contributor likh dunga
